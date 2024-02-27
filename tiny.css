@@ -1,0 +1,9 @@
+@media (max-width: 375px) {
+    .wrapper {
+        grid-template-areas: 
+        "content";
+    }
+    nav ul {
+        display: flex;
+    }
+  }
