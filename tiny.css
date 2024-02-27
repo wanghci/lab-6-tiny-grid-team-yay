@@ -4,6 +4,9 @@
         "content";
     }
     nav ul {
-        display: flex;
+        display: none;
+    }
+    footer, .ad, .side, .main-head {
+        display: none;
     }
   }
